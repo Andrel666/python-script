@@ -1,7 +1,7 @@
 
 #📌 Add these keys to your .env:
 API_BASE_URL=https://api.example.com
-API_TOKEN=abcd123
+API_TOKEN=abcd12
 API_PATH=/v1/users
 OUTPUT_FILE=users.csv
 
